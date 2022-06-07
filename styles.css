@@ -1,0 +1,142 @@
+.top{
+    background-color:aqua ;
+    overflow: hidden;
+    
+  
+    
+    
+    
+  
+    padding: 20px;
+    clear: both;
+}
+
+.vol{
+    position: relative;
+    left: 500px;
+    top: 100px;
+
+
+    
+
+
+
+}
+hr{
+    border: dotted;
+    color: aqua;
+    width: 4%;
+    margin:auto
+}
+
+
+
+.cl{
+    position: relative;
+   
+   left: 350px;
+   
+   
+   bottom: 250px;
+}
+.cl1{
+    position: relative;
+    align-items: center;
+    right: 2px;
+    left: 250px;
+    bottom: 450px;
+    
+    
+    
+}
+h1{
+    text-align: center;
+    font-size: 90px;
+}
+p{
+    text-align: center;
+    line-height: 200%;
+}
+body{
+    color:#40514E
+    }
+
+.photo{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  
+    
+}
+.sil:hover{
+    color: aqua;
+
+}
+.sil{
+    text-align: center;
+}
+.code{
+    text-align: center;
+}
+
+.font:hover{
+    color: red;
+}
+.image{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gif{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+}
+.Do{
+    text-align: center;
+}
+.bottom-container{
+    text-align: center;
+    background-color: #05ff86;
+   margin: auto;
+    padding: 5px 0px 30px;
+}
+
+.text:hover{
+    color:red;
+}
+.cr{
+    text-align: center;
+    color: red;
+    
+    
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 10pxpx;
+    background: #05ff86;
+    
+    padding: 10px  10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: red;
+    text-decoration: none;
+  }
+.footer-link{
+    color: black;
+    text-decoration: solid;
+    padding: 20px;
+}

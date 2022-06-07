@@ -1,0 +1,32 @@
+.do{
+    margin: auto;
+    color: red;
+
+}
+input{
+    border-radius: 8px;
+    border: red solid;
+    margin: auto;
+    
+
+}
+.container-1{
+    margin: auto;
+    padding: 10px 20px 0px 20px;
+}
+.d-flex{
+    position: relative;
+    right: 350px;
+}
+ h3{  font-family: 'Cedarville Cursive', cursive;font-size: 3rem;  line-height: 1.5; text-align: center;color: red; }
+.id-list{font-family: 'Calistoga', cursive; color: red;}
+.to{color: red;}
+
+.images{
+    position: relative;
+    left: 300px;
+}
+.row
+{
+    color: aqua;
+}
